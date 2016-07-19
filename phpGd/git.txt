@@ -1,0 +1,8 @@
+
+D:\wamp\www\phpGd>git add phpgd.class.php
+
+
+D:\wamp\www\phpGd>git commit -m 'phpGd'
+
+
+D:\wamp\www\phpGd>git push origin master
